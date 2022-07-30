@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web development and Python**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Python ,Data Science**
+- 🌱 I’m currently learning **Data structures and Algorithms,Data Science**
 
 - 👯 I’m looking to collaborate on [www.learnbharathuniversity.com](https://www.learnbharathuniversity.com/)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [saichakra123.github.io.](saichakra123.github.io.)
 
-- 💬 Ask me about **HTML,CSS,Java,Python,Script**
+- 💬 Ask me about **Python,HTML,CSS,Java,Script**
 
 - 📫 How to reach me **gundasaichakra316@gmail.com**
 
