@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Full Stack Developement**
 
-- 🌱 I’m currently learning **Data structures and Algorithms,Data Science**
+- 🌱 I’m currently learning **Data structures and Algorithms,Full Stack**
 
 - 👯 I’m looking to collaborate on [www.learnbharathuniversity.com](https://www.learnbharathuniversity.com/)
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [saichakra123.github.io.](saichakra123.github.io.)
 
-- 💬 Ask me about **Python,HTML,CSS,Java,Script**
+- 💬 Ask me about **Java,Python,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **gundasaichakra316@gmail.com**
 
