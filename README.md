@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack web Developement**
+- 🔭 I’m currently working on **Full Stack web Developement and Java Development**
 
-- 🌱 I’m currently learning **Data structures and Algorithms,Full Stack**
+- 🌱 I’m currently learning **Advance Data structures and Algorithms and Java Frameworks**
 
 - 👯 I’m looking to collaborate on [www.learnbharathuniversity.com](https://www.learnbharathuniversity.com/)
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [saichakra123.github.io.](saichakra123.github.io.)
 
-- 💬 Ask me about **Java,Python,HTML,CSS,JavaScript**
+- 💬 Ask me about **Java,Python,HTML,CSS,JavaScript,React,Node.js,Express**
 
-- 📫 How to reach me **gundasaichakra316@gmail.com**
+- 📫 How to reach me **saichakragunda2002@gmail.com**
 
 - 📄 Know about my experiences [https://saichakra123.github.io/Saichakra-Resume/](https://saichakra123.github.io/Saichakra-Resume/)
 
